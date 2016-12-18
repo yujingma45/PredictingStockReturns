@@ -1,6 +1,8 @@
 # PredictingStockReturns
 This project inspired by a recent acquisition activity is Bass Pro to acquire Cabela’s. I would like to look at the revenues and the market share of Cabela’s and one of its competitors, Dick’s Sporting Goods, prior to acquisition and see if there are any features/signals that can be seen in the last few months prior to acquisition. To test this effect with anterior data,  I used both stock market and social media datasets to predict stock returns for Cabela’s and its main competitors. The test RMSE for my model is around 0.019.
 
+Please check [my blog](https://yujingma.com) for details.
+
 ## Dataset
 
 Based on the assumptions, I used two main datasets:
